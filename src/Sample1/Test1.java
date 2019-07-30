@@ -7,6 +7,9 @@ public class Test1
 	System.out.println("design");
 	System.out.println("veryhappy");
 	
+	System.out.println("happy");
+	System.out.println("happy1");
+
 }
 
 }
